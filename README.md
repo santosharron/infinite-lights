@@ -3,7 +3,7 @@ A creative coding exploration into how to recreate a high-speed lights effect in
 
 ![Light Trails Effect Article](https://blogger.googleusercontent.com/img/a/AVvXsEjCo6lca1d7_qm9Uvnmwl1T2U44ZP8LytfmEXw96nHlKSVbhmA740qyVEZ3f0jFDsH_bkbrwYEvieM2iHPjkzcNrWm4GesQQjxuVBGEACJ7BVez_9xSf3nNjrFSUBj6WDHJCtZGg-sDR4bNuDOhPq0SNZEfA0N_T3-aths5l7zSr4ISaz4tJdKt12Xn=s2048)
 
-[Article on Epic Programmer](https://epicprogrammer.com/)
+[Article on Epic Programmer](https://www.epicprogrammer.com/2021/11/infinite-lights-with-threejs.html)
 
 [Demo](https://santosharron.github.io/infinite-lights/)
 
