@@ -342,15 +342,15 @@ class CarLights {
       aColor.push(color.g);
       aColor.push(color.b);
     }
-    instanced.addAttribute(
+    instanced.setAttribute(
       "aOffset",
       new THREE.InstancedBufferAttribute(new Float32Array(aOffset), 3, false)
     );
-    instanced.addAttribute(
+    instanced.setAttribute(
       "aMetrics",
       new THREE.InstancedBufferAttribute(new Float32Array(aMetrics), 3, false)
     );
-    instanced.addAttribute(
+    instanced.setAttribute(
       "aColor",
       new THREE.InstancedBufferAttribute(new Float32Array(aColor), 3, false)
     );
@@ -484,15 +484,15 @@ class LightsSticks {
       aMetrics.push(width);
       aMetrics.push(height);
     }
-    instanced.addAttribute(
+    instanced.setAttribute(
       "aOffset",
       new THREE.InstancedBufferAttribute(new Float32Array(aOffset), 1, false)
     );
-    instanced.addAttribute(
+    instanced.setAttribute(
       "aColor",
       new THREE.InstancedBufferAttribute(new Float32Array(aColor), 3, false)
     );
-    instanced.addAttribute(
+    instanced.setAttribute(
       "aMetrics",
       new THREE.InstancedBufferAttribute(new Float32Array(aMetrics), 2, false)
     );
